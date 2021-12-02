@@ -1,0 +1,12 @@
+{
+        "services": {
+                "phpservice1": {
+                    "name": "PHP Service 1",
+                    "root_dir": "/",
+                    "build": [],
+                    "command": "php artisan serve",
+                    "arguments" : [],
+                    "port": "80"
+                }
+        }
+}
